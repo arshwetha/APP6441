@@ -1,2 +1,2 @@
 # APP6441
-College project
+Risk game Project
